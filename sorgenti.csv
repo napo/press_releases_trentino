@@ -1,0 +1,4 @@
+owner,url,api,scraper
+Provincia Autonoma di Trento,https://www.ufficiostampa.provincia.tn.it/Comunicati,https://www.ufficiostampa.provincia.tn.it/feed/rss/comunicati,pat_rss.py
+Trentino Cultura,https://www.cultura.trentino.it/,https://www.cultura.trentino.it/calendar/search/node/(id)/298848?when=today,trentino_cultura_eventi.py
+
